@@ -180,7 +180,8 @@ for name, prediction in models.items():
     print("F1 Score :", f1_score(y_test, prediction))
     print()
 ## MODEL COMPARISON
-<img width="591" height="191" alt="image" src="https://github.com/user-attachments/assets/6bb058f3-4231-475d-92d1-2e64233ac6a0" />
+<img width="643" height="460" alt="683410753-78cb3650-3900-4884-a1e7-3db702052fae" src="https://github.com/user-attachments/assets/9c0d286a-1f15-4c19-947b-d8bd9713ae27" />
+
 Comparison
 •	Higher Accuracy → Better overall classification. 
 •	Higher Precision → Fewer false-positive predictions. 
